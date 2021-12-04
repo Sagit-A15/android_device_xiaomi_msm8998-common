@@ -450,7 +450,6 @@ vendor/bin/msm_irqbalance
 vendor/lib64/hw/keystore.msm8953.so:vendor/lib64/hw/keystore.msm8998.so;FIX_SONAME|83a48633d4530c45e36cfb9cd7f3d63a8a5bc122|2f6980a247daa3038e2d5fc66b09debeea1833e1
 
 # Listen
-vendor/lib/hw/sound_trigger.primary.msm8998.so
 vendor/lib/libsmwrapper.so
 
 # Media
